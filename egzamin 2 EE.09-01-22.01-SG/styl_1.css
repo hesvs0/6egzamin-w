@@ -1,0 +1,34 @@
+html{
+    font-family: Georgia;
+}
+.header{
+    background-color: dodgerblue;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+.glowny{
+    background-color: lightblue;
+    padding: 100px;
+}
+.lewy{
+    background-color: dodgerblue;
+    color: #fff;
+    width: 20%;
+    height: 220px;
+    float: left;
+}
+.srodkowy, .prawy{
+    background-color: dodgerblue;
+    color: #fff;
+    width: 40%;
+    height: 220px;
+    text-align: center;
+    float: left;
+}
+a{
+    border: dashed 1px dimgray;
+    background-color: gold;
+    color: darkred;
+    padding: 10px;
+}
